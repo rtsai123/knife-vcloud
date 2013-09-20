@@ -2,7 +2,7 @@ $:.unshift(File.dirname(__FILE__) + '/lib')
 require 'knife-vcloud/version'
 
 Gem::Specification.new do |s|
-  s.name = 'knife-vcloud'
+  s.name = 'knife-vcloud2'
   s.version = KnifeVCloud::VERSION
   s.platform = Gem::Platform::RUBY
   s.has_rdoc = true
